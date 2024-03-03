@@ -1,5 +1,5 @@
 
-# 👻 Haunted House Three.Js
+# 👻 Geometry in  Three.Js
 
 The project involves building cube and a sphere using Three.js primitives as geometries. The aim is to create a a three.js project using react .
 
